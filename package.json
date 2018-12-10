@@ -1,0 +1,28 @@
+{
+  "name": "hexo-helper-structured-data",
+  "version": "0.0.1",
+  "description": "hexo-helper-structured-data",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gazf/hexo-helper-structured-data.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0"
+  },
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "gazf"
+  },
+  "bugs": {
+    "url": "https://github.com/gazf/hexo-helper-structured-data/issues"
+  },
+  "homepage": "https://github.com/gazf/hexo-helper-structured-data"
+}
