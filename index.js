@@ -1,1 +1,1 @@
-hexo.extend.register("structured_data", require('./lib/'));
+hexo.extend.helper.register("structured_data", require('./lib/'));
