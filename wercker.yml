@@ -2,8 +2,8 @@ box: node:10.3.0-alpine
 
 build:
   steps:
+    - npm-install
     - script:
         name: Test
         code: |
-          npm install
           npx eslint .
