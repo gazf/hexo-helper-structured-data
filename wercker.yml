@@ -6,3 +6,4 @@ build:
         name: Test
         code: |
           npm install
+          npx eslint .
