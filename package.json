@@ -15,7 +15,7 @@
     "eslint": "^7.4.0"
   },
   "scripts": {
-    "test": "eslint './lib/**/*.js'"
+    "test": "eslint --debug './lib/**/*.js'"
   },
   "author": {
     "name": "gazf"
