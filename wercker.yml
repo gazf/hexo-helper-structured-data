@@ -6,4 +6,4 @@ build:
     - script:
         name: Test
         code: |
-          npx eslint ./lib/index.js
+          npx eslint "lib/**"
